@@ -3,15 +3,16 @@
 using namespace std;
 
 int main() {
-	int n, m, i, sum = 0;
+	int a, b, i, sum = 0;
 
-	cin >> n >> m;
+	cin >> a >> b;
 
-	for (i = 0; i <= n; i++) {
-		if (i % m == 0) {
-			sum += i;
-		}
+	for(i = a; i < b; i++) {
+		cout << i << " + ";
+		sum += i;
 	}
+
+	cout << i << " = " << sum + i;
 
 	return 0;
 }
