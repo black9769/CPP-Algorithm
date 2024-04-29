@@ -3,16 +3,20 @@
 using namespace std;
 
 int main() {
-	int a, b, i, sum = 0;
+	int n, i, sum = 1;
+	cin >> n;
 
-	cin >> a >> b;
+	cout << "1";
 
-	for(i = a; i < b; i++) {
-		cout << i << " + ";
-		sum += i;
+	for (i = 2; i < n; i++) {
+		if (n % i == 0) {
+			cout << " + " << i;
+			sum += i;
+		}
 	}
 
-	cout << i << " = " << sum + i;
+	cout << " = " << sum;
 
 	return 0;
+
 }
