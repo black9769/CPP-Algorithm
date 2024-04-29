@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="PS1.cpp" />
+    <ClCompile Include="PS2.cpp" />
+    <ClCompile Include="PS3.cpp" />
     <ClCompile Include="PS4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

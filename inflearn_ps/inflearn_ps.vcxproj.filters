@@ -18,5 +18,14 @@
     <ClCompile Include="PS4.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PS1.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PS2.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PS3.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
