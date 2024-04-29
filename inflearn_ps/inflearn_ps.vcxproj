@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="PS7.cpp" />
     <ClCompile Include="PS1.cpp" />
     <ClCompile Include="PS2.cpp" />
     <ClCompile Include="PS3.cpp" />
