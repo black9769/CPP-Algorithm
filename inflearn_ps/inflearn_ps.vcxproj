@@ -24,6 +24,7 @@
     <ProjectGuid>{16166209-fc1f-49b6-8488-6b9238c2b521}</ProjectGuid>
     <RootNamespace>inflearnps</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Problem Solving</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
