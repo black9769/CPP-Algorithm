@@ -13,5 +13,39 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Class1">
+      <UniqueIdentifier>{be8328ea-9f68-48b5-b8a1-dc5b8372d15f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class2">
+      <UniqueIdentifier>{ece4b349-e72c-4704-8406-e52fd0890bb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class3">
+      <UniqueIdentifier>{13c2861e-3a28-445a-b4bf-b6a290f500e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class4">
+      <UniqueIdentifier>{06fcd097-851a-4717-967b-6b62e74627d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ1000">
+      <UniqueIdentifier>{9228ca22-0fa1-4dbd-a623-5cfaa30daf53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ1001">
+      <UniqueIdentifier>{fe8f0a47-778b-4992-989b-d1d3292c67f6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BOJ1001.cpp">
+      <Filter>소스 파일\Class1\BOJ1001</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1000.cpp">
+      <Filter>소스 파일\Class1\BOJ1000</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BOJ1000.md">
+      <Filter>소스 파일\Class1\BOJ1000</Filter>
+    </None>
+    <None Include="BOJ1001.md">
+      <Filter>소스 파일\Class1\BOJ1001</Filter>
+    </None>
   </ItemGroup>
 </Project>
