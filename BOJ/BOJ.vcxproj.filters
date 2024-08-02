@@ -31,6 +31,108 @@
     <Filter Include="소스 파일\Class1\BOJ1001">
       <UniqueIdentifier>{fe8f0a47-778b-4992-989b-d1d3292c67f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Class1\BOJ1008">
+      <UniqueIdentifier>{71452a5f-ccaa-458c-956b-d9aed2d9c909}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ1152">
+      <UniqueIdentifier>{f58baa7f-374d-4471-9364-bea93ff23de2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ1330">
+      <UniqueIdentifier>{1dff77bf-3a51-4cf5-ad8f-5a90a15d61d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2438">
+      <UniqueIdentifier>{c1572573-ac0d-4753-aef9-abc6c3776b45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2439">
+      <UniqueIdentifier>{a5cf75f9-d754-48ef-b33e-0ca3c81c7f21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2475">
+      <UniqueIdentifier>{8588a03e-0ee5-4d4f-8936-dd65513bbfc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2557">
+      <UniqueIdentifier>{346ecdf1-1bee-4dd5-b490-741b0e57d8aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2562">
+      <UniqueIdentifier>{73c5bb70-2b60-4f74-b171-9daff555dd56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2577">
+      <UniqueIdentifier>{359cfe4a-4e1e-4e6a-9e67-ac03d8598150}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2675">
+      <UniqueIdentifier>{d1b61610-aca8-4021-8dc4-10f1d448c489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2739">
+      <UniqueIdentifier>{698a49c5-5587-4cbd-b9cf-7da3bc026ede}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2741">
+      <UniqueIdentifier>{3302beab-6357-43d8-b3de-530cbf27f5e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2753">
+      <UniqueIdentifier>{7ea2d7ac-6294-4a03-9e68-ba795d5d8289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2884">
+      <UniqueIdentifier>{b2e4e1a0-a747-4531-9f54-bb23e8cd9a0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ2920">
+      <UniqueIdentifier>{2d908d4c-e452-4c8d-ad4f-9fe14577f647}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ3052">
+      <UniqueIdentifier>{c45c6cba-0bb1-468d-b76f-3d868d113ff2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ8958">
+      <UniqueIdentifier>{7dda7491-f9f7-4167-a2d1-80d540c46545}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ9498">
+      <UniqueIdentifier>{a48ec476-e067-4c8e-9e18-5a3099494916}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10171">
+      <UniqueIdentifier>{ab249363-1f47-4788-853b-9de718c40c33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10172">
+      <UniqueIdentifier>{bf0297e5-f6cb-4415-b75e-baa5117b8cae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10250">
+      <UniqueIdentifier>{c5f17b5b-bd42-4aa2-8cfe-6cce6b698849}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10809">
+      <UniqueIdentifier>{b7fe10f1-aa41-41a3-a19e-debcf49022d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10818">
+      <UniqueIdentifier>{13312f04-f92d-45d2-9700-ec4d89cbfc28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10869">
+      <UniqueIdentifier>{46a20d58-d7b1-4204-a8ec-20738b66754a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10871">
+      <UniqueIdentifier>{e0864a84-2bb6-4909-84f2-a36129a16578}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10950">
+      <UniqueIdentifier>{28f1edf7-8daf-4293-8da6-33ac885f3d92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10951">
+      <UniqueIdentifier>{d1042a00-e52a-4c53-b183-13d9c8181446}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10952">
+      <UniqueIdentifier>{1ba08c89-9241-4edd-b02c-bb33756adeb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ10998">
+      <UniqueIdentifier>{07763de8-80d6-4e8b-ae5d-8862ec9607f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ11654">
+      <UniqueIdentifier>{302ffb1b-e2bd-44ab-9528-94907d9a552e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ11720">
+      <UniqueIdentifier>{f393c4a9-ae2c-4622-ac9b-d76fc39befc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ25083">
+      <UniqueIdentifier>{0991b459-13f0-4ef0-80c2-4448c14a278d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ27866">
+      <UniqueIdentifier>{f2ccda99-3b6e-4224-bfd6-2fce57bedc85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Class1\BOJ31403">
+      <UniqueIdentifier>{cc26bc49-c30c-480d-a5a4-411a1e6d5f81}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BOJ1001.cpp">
@@ -39,13 +141,115 @@
     <ClCompile Include="BOJ1000.cpp">
       <Filter>소스 파일\Class1\BOJ1000</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ1008.cpp">
+      <Filter>소스 파일\Class1\BOJ1008</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1152.cpp">
+      <Filter>소스 파일\Class1\BOJ1152</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ1330.cpp">
+      <Filter>소스 파일\Class1\BOJ1330</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2438.cpp">
+      <Filter>소스 파일\Class1\BOJ2438</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2439.cpp">
+      <Filter>소스 파일\Class1\BOJ2439</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2475.cpp">
+      <Filter>소스 파일\Class1\BOJ2475</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2557.cpp">
+      <Filter>소스 파일\Class1\BOJ2557</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2562.cpp">
+      <Filter>소스 파일\Class1\BOJ2562</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2577.cpp">
+      <Filter>소스 파일\Class1\BOJ2577</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2675.cpp">
+      <Filter>소스 파일\Class1\BOJ2675</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2739.cpp">
+      <Filter>소스 파일\Class1\BOJ2739</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2741.cpp">
+      <Filter>소스 파일\Class1\BOJ2741</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2753.cpp">
+      <Filter>소스 파일\Class1\BOJ2753</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2884.cpp">
+      <Filter>소스 파일\Class1\BOJ2884</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ2920.cpp">
+      <Filter>소스 파일\Class1\BOJ2920</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ3052.cpp">
+      <Filter>소스 파일\Class1\BOJ3052</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ8958.cpp">
+      <Filter>소스 파일\Class1\BOJ8958</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ9498.cpp">
+      <Filter>소스 파일\Class1\BOJ9498</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10171.cpp">
+      <Filter>소스 파일\Class1\BOJ10171</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10172.cpp">
+      <Filter>소스 파일\Class1\BOJ10172</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10250.cpp">
+      <Filter>소스 파일\Class1\BOJ10250</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10809.cpp">
+      <Filter>소스 파일\Class1\BOJ10809</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10818.cpp">
+      <Filter>소스 파일\Class1\BOJ10818</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10869.cpp">
+      <Filter>소스 파일\Class1\BOJ10869</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10871.cpp">
+      <Filter>소스 파일\Class1\BOJ10871</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10950.cpp">
+      <Filter>소스 파일\Class1\BOJ10950</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10951.cpp">
+      <Filter>소스 파일\Class1\BOJ10951</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10952.cpp">
+      <Filter>소스 파일\Class1\BOJ10952</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ10998.cpp">
+      <Filter>소스 파일\Class1\BOJ10998</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11654.cpp">
+      <Filter>소스 파일\Class1\BOJ11654</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ11720.cpp">
+      <Filter>소스 파일\Class1\BOJ11720</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ25083.cpp">
+      <Filter>소스 파일\Class1\BOJ25083</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ27866.cpp">
+      <Filter>소스 파일\Class1\BOJ27866</Filter>
+    </ClCompile>
+    <ClCompile Include="BOJ31403.cpp">
+      <Filter>소스 파일\Class1\BOJ31403</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="BOJ1000.md">
-      <Filter>소스 파일\Class1\BOJ1000</Filter>
-    </None>
     <None Include="BOJ1001.md">
       <Filter>소스 파일\Class1\BOJ1001</Filter>
+    </None>
+    <None Include="BOJ1000.md">
+      <Filter>소스 파일\Class1\BOJ1000</Filter>
     </None>
   </ItemGroup>
 </Project>
