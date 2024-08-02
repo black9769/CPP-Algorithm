@@ -141,9 +141,6 @@
     <ClCompile Include="BOJ1000.cpp">
       <Filter>소스 파일\Class1\BOJ1000</Filter>
     </ClCompile>
-    <ClCompile Include="BOJ1008.cpp">
-      <Filter>소스 파일\Class1\BOJ1008</Filter>
-    </ClCompile>
     <ClCompile Include="BOJ1152.cpp">
       <Filter>소스 파일\Class1\BOJ1152</Filter>
     </ClCompile>
@@ -243,13 +240,13 @@
     <ClCompile Include="BOJ31403.cpp">
       <Filter>소스 파일\Class1\BOJ31403</Filter>
     </ClCompile>
+    <ClCompile Include="BOJ1008.cpp">
+      <Filter>소스 파일\Class1\BOJ1008</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="BOJ1001.md">
-      <Filter>소스 파일\Class1\BOJ1001</Filter>
-    </None>
-    <None Include="BOJ1000.md">
-      <Filter>소스 파일\Class1\BOJ1000</Filter>
-    </None>
+    <ClInclude Include="BOJ1008.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

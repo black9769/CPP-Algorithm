@@ -145,9 +145,15 @@
     <ClCompile Include="BOJ1001.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="BOJ1008.cpp" />
-    <ClCompile Include="BOJ1152.cpp" />
-    <ClCompile Include="BOJ1330.cpp" />
+    <ClCompile Include="BOJ1008.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ1152.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ1330.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BOJ2741.cpp" />
     <ClCompile Include="BOJ2753.cpp" />
     <ClCompile Include="BOJ2884.cpp" />
@@ -158,7 +164,9 @@
     <ClCompile Include="BOJ10171.cpp" />
     <ClCompile Include="BOJ10172.cpp" />
     <ClCompile Include="BOJ10250.cpp" />
-    <ClCompile Include="BOJ2438.cpp" />
+    <ClCompile Include="BOJ2438.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BOJ10809.cpp" />
     <ClCompile Include="BOJ10818.cpp" />
     <ClCompile Include="BOJ10869.cpp" />
@@ -169,20 +177,29 @@
     <ClCompile Include="BOJ10998.cpp" />
     <ClCompile Include="BOJ11654.cpp" />
     <ClCompile Include="BOJ11720.cpp" />
-    <ClCompile Include="BOJ2439.cpp" />
+    <ClCompile Include="BOJ2439.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BOJ25083.cpp" />
     <ClCompile Include="BOJ27866.cpp" />
     <ClCompile Include="BOJ31403.cpp" />
-    <ClCompile Include="BOJ2475.cpp" />
-    <ClCompile Include="BOJ2557.cpp" />
-    <ClCompile Include="BOJ2562.cpp" />
-    <ClCompile Include="BOJ2577.cpp" />
+    <ClCompile Include="BOJ2475.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ2557.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ2562.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="BOJ2577.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="BOJ2675.cpp" />
     <ClCompile Include="BOJ2739.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="BOJ1000.md" />
-    <None Include="BOJ1001.md" />
+    <ClInclude Include="BOJ1008.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
