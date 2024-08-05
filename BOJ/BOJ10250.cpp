@@ -1,27 +1,23 @@
-#include <iostream>
-#include <cstring>
-
-using namespace std;
+#include <stdio.h>
 
 int main() {
-	string str;
+	int t;
+	scanf("%d", &t);
 
-	cin >> str;
+	int h, w, n, y, x;
 
-	int arr[26] = { 0, };
+	for (int i = 0; i < t; ++i) {
+		scanf("%d %d %d", &h, &w, &n);
 
-	memset(arr, -1, sizeof(arr));
+		x = n / h + 1;
+		y = n % h;
 
-	for (int i = 0; i < str.size(); i++) {
-		char c = str[i];
-
-		if (arr[c - 'a'] == -1) {
-			arr[c - 'a'] = i;
+		if (y == 0) {
+			y = h;
+			x -= 1;
 		}
-	}
 
-	for (int i : arr) {
-		cout << i << " ";
+		printf("%d%02d\n", y, x);
 	}
 
 	return 0;
